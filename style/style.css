@@ -225,13 +225,13 @@ divider .section .overlay-wrapper p,
 }
 #intro-section .bg {
   z-index: 0;
-  background-image: url(../img/bg-intro/sunlight-shining-single-mountain-top-sunset-with-dark-cloudy-sky.jpg);
+  background-image: url(../img/bg-intro/Night.jpg);
 }
 #services-section .bg {
   background-image: url(../img/bg-services/services-xl.jpg);
 }
 #experience-section .bg {
-  background-image: url(../img/bg-experience/aerial-photography-mountain-viewing-full-moon.jpg);
+  background-image: url(../img/bg-experience/Night-e.jpg);
 }
 
 .dev-item:hover {
