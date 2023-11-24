@@ -2773,7 +2773,7 @@ ul.social-buttons li a:active {
   padding: 0px !important;
 }
 
-#facebook:hover {
+/* #facebook:hover {
   background-color: #3b5998;
 }
 
@@ -2797,7 +2797,7 @@ ul.social-buttons li a:active {
 #github:hover {
   background-color: #4183c4;
 }
-
+ */
 .copyright {
   font-weight: 300;
   color: #aaa;
