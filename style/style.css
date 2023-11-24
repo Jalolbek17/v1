@@ -11,9 +11,11 @@ html {
   margin: 0;
   padding: 0;
   height: 100%;
-  color: #f2f2f2;
-  background-color: #1b1b1b;
+  color: #ffffff;
+  background-color:#05050B;
+  /* background: linear-gradient( to bottom, rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61), rgba(1, 46, 94, 0.61), rgba(0, 0, 0, 0.61), rgba(0, 0, 0, 0.61) ) !important; */
 }
+
 
 html {
   scroll-behavior: smooth;
@@ -227,9 +229,7 @@ divider .section .overlay-wrapper p,
   z-index: 0;
   background-image: url(../img/bg-intro/Night.jpg);
 }
-#services-section .bg {
-  background-image: url(../img/bg-services/services-xl.jpg);
-}
+
 #experience-section .bg {
   background-image: url(../img/bg-experience/Night-e.jpg);
 }
@@ -681,6 +681,7 @@ divider .section .overlay-wrapper p,
 
 #intro-section .intro-wrapper .intro-body .intro-content {
   text-align: center;
+  font-family: "Oswald" ,sans-serif!important;
   padding: 0 5%;
   width: 100%;
   position: relative;
@@ -2771,7 +2772,7 @@ ul.social-buttons li a:active {
 .list-inline > li {
   padding: 0px !important;
 }
-/* 
+
 #facebook:hover {
   background-color: #3b5998;
 }
@@ -2795,13 +2796,15 @@ ul.social-buttons li a:active {
 
 #github:hover {
   background-color: #4183c4;
-} */
+}
 
 .copyright {
   font-weight: 300;
   color: #aaa;
 }
-
+footer{
+  background-color:#2d2d2d92;
+}
 .copyright p {
   font-size: 18px;
   display: flex;
